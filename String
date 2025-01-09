@@ -1,0 +1,25 @@
+ import java.util.*;
+ public class Main{
+     public static void main(String[]k){
+         String Name = "Aniket";
+         String sameName="Aniket";
+         
+        String newName= new String("Aniket");
+        System.out.println(newName);
+         System.out.println(sameName);
+         
+         if(Name.equals(newName)){
+             System.out.println("yes they are equals");
+         }else{
+             System.out.println("no");
+         }
+         
+        //  if(Name==sameName){
+        //      System.out.println("yes it is true :");
+        //  }
+        //  else{
+             
+        //      System.out.println("no they both are not same");
+        //  }
+     }
+ }
