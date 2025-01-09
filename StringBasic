@@ -1,0 +1,26 @@
+ import java.util.*;
+ public class Main{
+     public static void main(String[]k){
+         
+         
+        //  int age=1234;
+        //  String stringAge= String.valueOf(age);
+        //  System.out.println(stringAge);
+         
+         String sentence= "i am aniket tiwari and aniket is a very inteligent person ";
+        String substring=sentence.substring(2,8);
+        System.out.println(substring);
+        //   String sentencecontains=sentence.contains("aniket");
+        //   System.out.println(sentencecontains);
+          
+        //  String newSentence= sentence.replace("aniket","alok");
+        //  System.out.println(sentence);
+        //  System.out.println(newSentence);
+         //System.out.println(sentence.Contains("ravi"));
+        //  String name="aniket2790";
+        //  System.out.println(name.toUpperCase());
+        //  System.out.println(name.toLowerCase());
+        //  System.out.println();
+        //  System.out.println();System.out.println();System.out.println();
+     }
+ }
